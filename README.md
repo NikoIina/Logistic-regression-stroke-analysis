@@ -19,6 +19,8 @@ Attribute Information
 
 I will use this dataset to practice predicting outcome in case of inbalanced dataset using Weighted Logistic Regression and SMOTE. I will also use summary of the final model to draw odds ratios.
 
+For the completion of this project I will use data manipulation and analysis modules such as Pandas, Numpy and Scipy. I will also use Matplotlib and Seaborn for visualization and scikit-learn and statsmodels for model building.
+
 
 По данным Всемирной организации здравоохранения (ВОЗ), инсульт занимает второе место среди причин смерти в мире, на него приходится около 11% всех смертей. Этот датасет используется для прогнозирования вероятности инсульта у пациента на основе таких входных параметров, как пол, возраст, различные заболевания и статус курения. Каждая строка в датасете содержит соответствующую информацию о пациенте.
 
@@ -38,3 +40,5 @@ I will use this dataset to practice predicting outcome in case of inbalanced dat
 - stroke: 1, если у пациента был инсульт или 0, если нет
 
 Я использую этот набор данных в целях практики прогнозирования результатов на основе несбалансированного набора данных с использованием Weighted Logistic Regression и SMOTE. Также на основании сводной таблицы финальной модели я посчитаю соотношения шансов для разных групп пациентов.
+
+Для выполнения этого проекта я буду использовать модули обработки и анализа данных, такие как Pandas, Numpy и Scipy. Я буду использовать Matplotlib и Seaborn для визуализации, а также scikit-learn и statsmodels для построения моделей. 
